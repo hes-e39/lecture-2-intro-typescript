@@ -29,8 +29,9 @@ Run the homework by running `npm run homework` and run the tests by running `npm
 
 ## Resources
 
-TypeScript documentation: https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
-TypeScript deep dive: https://basarat.gitbook.io/typescript
+- TypeScript documentation: https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+- TypeScript deep dive: https://basarat.gitbook.io/typescript
+- TypeScript playground: https://www.typescriptlang.org/play
 
 # Lecture 2 Notes
 
