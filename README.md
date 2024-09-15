@@ -1,4 +1,4 @@
-# Lecture 2: Introduction to basic TypeScript concepts
+# Lecture 2: Introduction to TypeScript
 
 Topics:
 
