@@ -23,9 +23,14 @@ npm install
 npm run lecture
 ```
 
-# Homework 2
+## Homework 2
 
 Run the homework by running `npm run homework` and run the tests by running `npm run homework:test`. The goal is to fix all the TS errors in the code and make all the tests pass. When you run the tests, you will see a bunch of errors in the console.
+
+## Resources
+
+TypeScript documentation: https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+TypeScript deep dive: https://basarat.gitbook.io/typescript
 
 # Lecture 2 Notes
 
