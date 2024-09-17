@@ -27,7 +27,7 @@ export type Person = boolean;
 export type User = boolean;
 
 // Create type "Admin" which extends "Person" and adds the following properties:
-// - isSuperAdmin: boolean
+// - isAdmin: boolean
 export type Admin = boolean;
 
 // Create a type "AllPeople" which is a union of "Person", "User", and "Admin"
